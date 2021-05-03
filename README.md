@@ -8,3 +8,5 @@ How-TO:
 3) Enter your age and pincodes in the ".env" file  
 4) Run the "vaccineNotifier-win.exe" file  
 5) You'll get a desktop notification whenever slots are open in the next 10 days starting from today's date
+
+![Screenshot](Screenshot.jpg)
